@@ -1,0 +1,4 @@
+model_keypointrcnn_conv_resize/
+model_keypointrcnn_product_conv/
+model_simple_conv+resize/
+model_simple_product_conv/
